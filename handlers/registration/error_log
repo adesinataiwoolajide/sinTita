@@ -1,0 +1,110 @@
+[16-May-2019 16:44:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1540): PHPMailer->smtpSend('Date: Thu, 16 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(71): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php on line 1760
+[16-May-2019 16:45:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1540): PHPMailer->smtpSend('Date: Thu, 16 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(71): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php on line 1760
+[17-May-2019 12:50:25 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(71): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php on line 1760
+[17-May-2019 13:29:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(71): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php on line 1760
+[17-May-2019 13:29:06 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(71): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php on line 1760
+[17-May-2019 13:30:22 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(71): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php on line 1760
+[17-May-2019 13:38:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(71): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/mailer/PHPMailerAutoload.php on line 1760
+[17-May-2019 13:41:18 Africa/Lagos] PHP Warning:  require_once(/home/abvesboo/public_html/test/dev/PHPMailer.php): failed to open stream: No such file or directory in /home/abvesboo/public_html/test/dev/autoload.php on line 4
+[17-May-2019 13:41:18 Africa/Lagos] PHP Fatal error:  require_once(): Failed opening required '/home/abvesboo/public_html/test/dev/PHPMailer.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/abvesboo/public_html/test/dev/autoload.php on line 4
+[17-May-2019 13:42:55 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/dev/PHPMailer.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/dev/PHPMailer.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/dev/PHPMailer.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/dev/PHPMailer.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/dev/PHPMailer.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(72): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/dev/PHPMailer.php on line 1760
+[17-May-2019 14:39:18 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/dev/PHPMailer.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/dev/PHPMailer.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/dev/PHPMailer.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/dev/PHPMailer.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/dev/PHPMailer.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(72): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/dev/PHPMailer.php on line 1760
+[17-May-2019 20:09:06 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/dev/PHPMailer.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/dev/PHPMailer.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/dev/PHPMailer.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/dev/PHPMailer.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/dev/PHPMailer.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(72): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/dev/PHPMailer.php on line 1760
+[17-May-2019 20:11:00 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/dev/PHPMailer.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/dev/PHPMailer.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/dev/PHPMailer.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/dev/PHPMailer.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/dev/PHPMailer.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(72): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/dev/PHPMailer.php on line 1760
+[17-May-2019 20:11:20 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class 'SMTP' not found in /home/abvesboo/public_html/test/dev/PHPMailer.php:1760
+Stack trace:
+#0 /home/abvesboo/public_html/test/dev/PHPMailer.php(1885): PHPMailer->getSMTPInstance()
+#1 /home/abvesboo/public_html/test/dev/PHPMailer.php(1798): PHPMailer->smtpConnect(Array)
+#2 /home/abvesboo/public_html/test/dev/PHPMailer.php(1540): PHPMailer->smtpSend('Date: Fri, 17 M...', 'This is a multi...')
+#3 /home/abvesboo/public_html/test/dev/PHPMailer.php(1376): PHPMailer->postSend()
+#4 /home/abvesboo/public_html/test/handlers/registration/process-registration.php(72): PHPMailer->send()
+#5 {main}
+  thrown in /home/abvesboo/public_html/test/dev/PHPMailer.php on line 1760

@@ -1,0 +1,5 @@
+[15-Nov-2018 13:44:12 Africa/Lagos] PHP Warning:  mail() expects parameter 2 to be string, array given in /home2/chamronn/public_html/coopco.ng/dev/handlers/orders/saveOrder.php on line 41
+[15-Nov-2018 13:44:12 Africa/Lagos] PHP Warning:  mail() expects parameter 2 to be string, array given in /home2/chamronn/public_html/coopco.ng/dev/handlers/orders/saveOrder.php on line 41
+[16-Nov-2018 04:55:24 Africa/Lagos] PHP Notice:  Undefined index: paystackReference in /home2/chamronn/public_html/coopco.ng/dev/handlers/orders/verifyTransaction.php on line 17
+[17-May-2019 09:16:37 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$status in /home/abvesboo/public_html/test/handlers/orders/saveOrder.php on line 69
+[17-May-2019 09:54:11 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$status in /home/abvesboo/public_html/test/handlers/orders/saveOrder.php on line 69
